@@ -20,5 +20,7 @@ void main()
 		Simulate_exe();		//模拟指令运行程序
 		print();			//输出
 	}
+
 	printf("\n程序结束\n");
+
 }
